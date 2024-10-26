@@ -6,4 +6,7 @@
 // b) 59 divided by 7 ( to 4 decimal places )
 // c) 67 plus 100
 
-// Write your answers below:
+// Write your answers below:node
+// a) 560
+// b) 8.428571428571429
+// c)  167
